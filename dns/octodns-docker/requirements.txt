@@ -19,7 +19,7 @@ packaging==19.2
 pluggy==0.13.0
 pprintpp==0.4.0
 protobuf==3.10.0
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.7
 pyasn1-modules==0.2.7
 pycountry==19.8.18
@@ -37,3 +37,4 @@ rsa==4.0
 six==1.13.0
 urllib3==1.25.7
 wcwidth==0.1.7
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
