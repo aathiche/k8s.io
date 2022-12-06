@@ -18,7 +18,7 @@
 # infrastructure managed by sig-k8s-infra.
 
 # base image
-FROM debian:bullseye
+FROM debian:11.5
 
 # build args
 
