@@ -10,7 +10,7 @@ google-auth==1.7.1
 google-cloud-core==1.0.3
 google-cloud-dns==0.31.0
 googleapis-common-protos==1.6.0
-idna==2.8
+idna==3.7
 ipaddress==1.0.23
 more-itertools==7.2.0
 natsort==6.2.0
