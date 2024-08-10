@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM postgres:12.7 AS final
+FROM postgres:12.20 AS final
 LABEL maintainer "ii <public-log-asn-matcher@ii.coop>"
 RUN apt-get update && \
   apt-get install -y curl && \
